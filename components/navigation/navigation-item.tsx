@@ -43,3 +43,4 @@ export const NavigationItem = ({ id, imageUrl, name }: NavigationItemProps) => {
     </ActionTooltip>
   );
 };
+
