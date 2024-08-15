@@ -1,0 +1,115 @@
+Date : 2024-08-15 23:58:49
+Directory : e:\Discord-Clone\discord-clone
+Total : 53 files,  8217 codes, 8 comments, 316 blanks, all 8541 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      6,451 |          0 |          2 |      6,453 |
+| TypeScript JSX     |         29 |      1,338 |          1 |        214 |      1,553 |
+| TypeScript         |         12 |        222 |          2 |         50 |        274 |
+| CSS                |          1 |         72 |          0 |          8 |         80 |
+| Prisma             |          1 |         68 |          3 |         22 |         93 |
+| JSON with Comments |          2 |         29 |          0 |          2 |         31 |
+| Markdown           |          1 |         23 |          0 |         14 |         37 |
+| JavaScript         |          2 |         12 |          2 |          4 |         18 |
+| XML                |          2 |          2 |          0 |          0 |          2 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         53 |      8,217 |          8 |        316 |      8,541 |
+| . (Files)                                                                          |         11 |      6,607 |          4 |         30 |      6,641 |
+| app                                                                                |         12 |        257 |          0 |         49 |        306 |
+| app (Files)                                                                        |          2 |        107 |          0 |         13 |        120 |
+| app\(auth)                                                                         |          3 |         12 |          0 |          4 |         16 |
+| app\(auth) (Files)                                                                 |          1 |          4 |          0 |          2 |          6 |
+| app\(auth)\(routes)                                                                |          2 |          8 |          0 |          2 |         10 |
+| app\(auth)\(routes)\sign-in                                                        |          1 |          4 |          0 |          1 |          5 |
+| app\(auth)\(routes)\sign-in\[[...sign-in]]                                         |          1 |          4 |          0 |          1 |          5 |
+| app\(auth)\(routes)\sign-up                                                        |          1 |          4 |          0 |          1 |          5 |
+| app\(auth)\(routes)\sign-up\[[...sign-up]]                                         |          1 |          4 |          0 |          1 |          5 |
+| app\(main)                                                                         |          3 |         57 |          0 |         12 |         69 |
+| app\(main)\(routes)                                                                |          3 |         57 |          0 |         12 |         69 |
+| app\(main)\(routes) (Files)                                                        |          1 |         12 |          0 |          4 |         16 |
+| app\(main)\(routes)\servers                                                        |          2 |         45 |          0 |          8 |         53 |
+| app\(main)\(routes)\servers\[serverId]                                             |          2 |         45 |          0 |          8 |         53 |
+| app\(setup)                                                                        |          1 |         21 |          0 |          6 |         27 |
+| app\api                                                                            |          3 |         60 |          0 |         14 |         74 |
+| app\api\servers                                                                    |          1 |         37 |          0 |          6 |         43 |
+| app\api\uploadthing                                                                |          2 |         23 |          0 |          8 |         31 |
+| components                                                                         |         21 |      1,213 |          1 |        187 |      1,401 |
+| components (Files)                                                                 |          3 |        105 |          1 |         15 |        121 |
+| components\modals                                                                  |          2 |        249 |          0 |         29 |        278 |
+| components\navigation                                                              |          3 |        115 |          0 |         21 |        136 |
+| components\providers                                                               |          2 |         24 |          0 |         10 |         34 |
+| components\server                                                                  |          2 |         89 |          0 |         17 |        106 |
+| components\ui                                                                      |          9 |        631 |          0 |         95 |        726 |
+| hooks                                                                              |          1 |         14 |          0 |          4 |         18 |
+| lib                                                                                |          5 |         56 |          0 |         24 |         80 |
+| prisma                                                                             |          1 |         68 |          3 |         22 |         93 |
+| public                                                                             |          2 |          2 |          0 |          0 |          2 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                           | language           | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\Discord-Clone\discord-clone\.eslintrc.json                                      | JSON with Comments |          3 |          0 |          1 |          4 |
+| e:\Discord-Clone\discord-clone\README.md                                           | Markdown           |         23 |          0 |         14 |         37 |
+| e:\Discord-Clone\discord-clone\app\(auth)\(routes)\sign-in\[[...sign-in]]\page.tsx | TypeScript JSX     |          4 |          0 |          1 |          5 |
+| e:\Discord-Clone\discord-clone\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx | TypeScript JSX     |          4 |          0 |          1 |          5 |
+| e:\Discord-Clone\discord-clone\app\(auth)\layout.tsx                               | TypeScript JSX     |          4 |          0 |          2 |          6 |
+| e:\Discord-Clone\discord-clone\app\(main)\(routes)\layout.tsx                      | TypeScript JSX     |         12 |          0 |          4 |         16 |
+| e:\Discord-Clone\discord-clone\app\(main)\(routes)\servers\[serverId]\layout.tsx   | TypeScript JSX     |         39 |          0 |          7 |         46 |
+| e:\Discord-Clone\discord-clone\app\(main)\(routes)\servers\[serverId]\page.tsx     | TypeScript JSX     |          6 |          0 |          1 |          7 |
+| e:\Discord-Clone\discord-clone\app\(setup)\page.tsx                                | TypeScript JSX     |         21 |          0 |          6 |         27 |
+| e:\Discord-Clone\discord-clone\app\api\servers\route.ts                            | TypeScript         |         37 |          0 |          6 |         43 |
+| e:\Discord-Clone\discord-clone\app\api\uploadthing\core.ts                         | TypeScript         |         18 |          0 |          5 |         23 |
+| e:\Discord-Clone\discord-clone\app\api\uploadthing\route.ts                        | TypeScript         |          5 |          0 |          3 |          8 |
+| e:\Discord-Clone\discord-clone\app\globals.css                                     | CSS                |         72 |          0 |          8 |         80 |
+| e:\Discord-Clone\discord-clone\app\layout.tsx                                      | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| e:\Discord-Clone\discord-clone\components.json                                     | JSON               |         17 |          0 |          0 |         17 |
+| e:\Discord-Clone\discord-clone\components\action-tooltip.tsx                       | TypeScript JSX     |         32 |          0 |          4 |         36 |
+| e:\Discord-Clone\discord-clone\components\file-upload.tsx                          | TypeScript JSX     |         37 |          1 |          6 |         44 |
+| e:\Discord-Clone\discord-clone\components\modals\create-server-modal.tsx           | TypeScript JSX     |        124 |          0 |         14 |        138 |
+| e:\Discord-Clone\discord-clone\components\modals\initial-modal.tsx                 | TypeScript JSX     |        125 |          0 |         15 |        140 |
+| e:\Discord-Clone\discord-clone\components\mode-toggle.tsx                          | TypeScript JSX     |         36 |          0 |          5 |         41 |
+| e:\Discord-Clone\discord-clone\components\navigation\navigation-action.tsx         | TypeScript JSX     |         24 |          0 |          5 |         29 |
+| e:\Discord-Clone\discord-clone\components\navigation\navigation-item.tsx           | TypeScript JSX     |         39 |          0 |          8 |         47 |
+| e:\Discord-Clone\discord-clone\components\navigation\navigation-sidebar.tsx        | TypeScript JSX     |         52 |          0 |          8 |         60 |
+| e:\Discord-Clone\discord-clone\components\providers\modal-provider.tsx             | TypeScript JSX     |         17 |          0 |          7 |         24 |
+| e:\Discord-Clone\discord-clone\components\providers\theme-provider.tsx             | TypeScript JSX     |          7 |          0 |          3 |         10 |
+| e:\Discord-Clone\discord-clone\components\server\server-header.tsx                 | TypeScript JSX     |         29 |          0 |          7 |         36 |
+| e:\Discord-Clone\discord-clone\components\server\server-sidebar.tsx                | TypeScript JSX     |         60 |          0 |         10 |         70 |
+| e:\Discord-Clone\discord-clone\components\ui\button.tsx                            | TypeScript JSX     |         52 |          0 |          6 |         58 |
+| e:\Discord-Clone\discord-clone\components\ui\dialog.tsx                            | TypeScript JSX     |        109 |          0 |         14 |        123 |
+| e:\Discord-Clone\discord-clone\components\ui\dropdown-menu.tsx                     | TypeScript JSX     |        182 |          0 |         19 |        201 |
+| e:\Discord-Clone\discord-clone\components\ui\form.tsx                              | TypeScript JSX     |        153 |          0 |         26 |        179 |
+| e:\Discord-Clone\discord-clone\components\ui\input.tsx                             | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| e:\Discord-Clone\discord-clone\components\ui\label.tsx                             | TypeScript JSX     |         21 |          0 |          6 |         27 |
+| e:\Discord-Clone\discord-clone\components\ui\scroll-area.tsx                       | TypeScript JSX     |         43 |          0 |          6 |         49 |
+| e:\Discord-Clone\discord-clone\components\ui\separator.tsx                         | TypeScript JSX     |         27 |          0 |          5 |         32 |
+| e:\Discord-Clone\discord-clone\components\ui\tooltip.tsx                           | TypeScript JSX     |         23 |          0 |          8 |         31 |
+| e:\Discord-Clone\discord-clone\hooks\use-modal-store.ts                            | TypeScript         |         14 |          0 |          4 |         18 |
+| e:\Discord-Clone\discord-clone\lib\current-profile.ts                              | TypeScript         |         14 |          0 |          8 |         22 |
+| e:\Discord-Clone\discord-clone\lib\db.ts                                           | TypeScript         |          8 |          0 |          3 |         11 |
+| e:\Discord-Clone\discord-clone\lib\initial-profile.ts                              | TypeScript         |         25 |          0 |          8 |         33 |
+| e:\Discord-Clone\discord-clone\lib\uploadthing.ts                                  | TypeScript         |          4 |          0 |          3 |          7 |
+| e:\Discord-Clone\discord-clone\lib\utils.ts                                        | TypeScript         |          5 |          0 |          2 |          7 |
+| e:\Discord-Clone\discord-clone\middleware.ts                                       | TypeScript         |         10 |          2 |          2 |         14 |
+| e:\Discord-Clone\discord-clone\next.config.mjs                                     | JavaScript         |          6 |          1 |          2 |          9 |
+| e:\Discord-Clone\discord-clone\package-lock.json                                   | JSON               |      6,382 |          0 |          1 |      6,383 |
+| e:\Discord-Clone\discord-clone\package.json                                        | JSON               |         52 |          0 |          1 |         53 |
+| e:\Discord-Clone\discord-clone\postcss.config.mjs                                  | JavaScript         |          6 |          1 |          2 |          9 |
+| e:\Discord-Clone\discord-clone\prisma\schema.prisma                                | Prisma             |         68 |          3 |         22 |         93 |
+| e:\Discord-Clone\discord-clone\public\next.svg                                     | XML                |          1 |          0 |          0 |          1 |
+| e:\Discord-Clone\discord-clone\public\vercel.svg                                   | XML                |          1 |          0 |          0 |          1 |
+| e:\Discord-Clone\discord-clone\tailwind.config.ts                                  | TypeScript         |         78 |          0 |          4 |         82 |
+| e:\Discord-Clone\discord-clone\tsconfig.json                                       | JSON with Comments |         26 |          0 |          1 |         27 |
+| e:\Discord-Clone\discord-clone\types.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| Total                                                                              |                    |      8,217 |          8 |        316 |      8,541 |
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

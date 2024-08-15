@@ -1,0 +1,55 @@
+"filename", "language", "JSON with Comments", "TypeScript", "JavaScript", "Markdown", "Prisma", "JSON", "TypeScript JSX", "CSS", "XML", "comment", "blank", "total"
+"e:\Discord-Clone\discord-clone\.eslintrc.json", "JSON with Comments", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"e:\Discord-Clone\discord-clone\README.md", "Markdown", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 14, 37
+"e:\Discord-Clone\discord-clone\app\(auth)\(routes)\sign-in\[[...sign-in]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"e:\Discord-Clone\discord-clone\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"e:\Discord-Clone\discord-clone\app\(auth)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 2, 6
+"e:\Discord-Clone\discord-clone\app\(main)\(routes)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 4, 16
+"e:\Discord-Clone\discord-clone\app\(main)\(routes)\servers\[serverId]\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 7, 46
+"e:\Discord-Clone\discord-clone\app\(main)\(routes)\servers\[serverId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 7
+"e:\Discord-Clone\discord-clone\app\(setup)\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 6, 27
+"e:\Discord-Clone\discord-clone\app\api\servers\route.ts", "TypeScript", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 6, 43
+"e:\Discord-Clone\discord-clone\app\api\uploadthing\core.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"e:\Discord-Clone\discord-clone\app\api\uploadthing\route.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"e:\Discord-Clone\discord-clone\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 72, 0, 0, 8, 80
+"e:\Discord-Clone\discord-clone\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 35, 0, 0, 0, 5, 40
+"e:\Discord-Clone\discord-clone\components.json", "JSON", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 17
+"e:\Discord-Clone\discord-clone\components\action-tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 4, 36
+"e:\Discord-Clone\discord-clone\components\file-upload.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 37, 0, 0, 1, 6, 44
+"e:\Discord-Clone\discord-clone\components\modals\create-server-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 124, 0, 0, 0, 14, 138
+"e:\Discord-Clone\discord-clone\components\modals\initial-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 125, 0, 0, 0, 15, 140
+"e:\Discord-Clone\discord-clone\components\mode-toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 36, 0, 0, 0, 5, 41
+"e:\Discord-Clone\discord-clone\components\navigation\navigation-action.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 24, 0, 0, 0, 5, 29
+"e:\Discord-Clone\discord-clone\components\navigation\navigation-item.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 8, 47
+"e:\Discord-Clone\discord-clone\components\navigation\navigation-sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 52, 0, 0, 0, 8, 60
+"e:\Discord-Clone\discord-clone\components\providers\modal-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 7, 24
+"e:\Discord-Clone\discord-clone\components\providers\theme-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 3, 10
+"e:\Discord-Clone\discord-clone\components\server\server-header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 7, 36
+"e:\Discord-Clone\discord-clone\components\server\server-sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 10, 70
+"e:\Discord-Clone\discord-clone\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 52, 0, 0, 0, 6, 58
+"e:\Discord-Clone\discord-clone\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 109, 0, 0, 0, 14, 123
+"e:\Discord-Clone\discord-clone\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 0, 19, 201
+"e:\Discord-Clone\discord-clone\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 153, 0, 0, 0, 26, 179
+"e:\Discord-Clone\discord-clone\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 5, 26
+"e:\Discord-Clone\discord-clone\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 6, 27
+"e:\Discord-Clone\discord-clone\components\ui\scroll-area.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 43, 0, 0, 0, 6, 49
+"e:\Discord-Clone\discord-clone\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 5, 32
+"e:\Discord-Clone\discord-clone\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 8, 31
+"e:\Discord-Clone\discord-clone\hooks\use-modal-store.ts", "TypeScript", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 4, 18
+"e:\Discord-Clone\discord-clone\lib\current-profile.ts", "TypeScript", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 8, 22
+"e:\Discord-Clone\discord-clone\lib\db.ts", "TypeScript", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"e:\Discord-Clone\discord-clone\lib\initial-profile.ts", "TypeScript", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 8, 33
+"e:\Discord-Clone\discord-clone\lib\uploadthing.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7
+"e:\Discord-Clone\discord-clone\lib\utils.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"e:\Discord-Clone\discord-clone\middleware.ts", "TypeScript", 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 2, 14
+"e:\Discord-Clone\discord-clone\next.config.mjs", "JavaScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 2, 9
+"e:\Discord-Clone\discord-clone\package-lock.json", "JSON", 0, 0, 0, 0, 0, 6382, 0, 0, 0, 0, 1, 6383
+"e:\Discord-Clone\discord-clone\package.json", "JSON", 0, 0, 0, 0, 0, 52, 0, 0, 0, 0, 1, 53
+"e:\Discord-Clone\discord-clone\postcss.config.mjs", "JavaScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 2, 9
+"e:\Discord-Clone\discord-clone\prisma\schema.prisma", "Prisma", 0, 0, 0, 0, 68, 0, 0, 0, 0, 3, 22, 93
+"e:\Discord-Clone\discord-clone\public\next.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\Discord-Clone\discord-clone\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\Discord-Clone\discord-clone\tailwind.config.ts", "TypeScript", 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 4, 82
+"e:\Discord-Clone\discord-clone\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"e:\Discord-Clone\discord-clone\types.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"Total", "-", 29, 222, 12, 23, 68, 6451, 1338, 72, 2, 8, 316, 8541
