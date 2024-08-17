@@ -16,6 +16,7 @@ interface EmojiPickerProps {
 }
 
 export const EmojiPicker = ({ onChange }: EmojiPickerProps) => {
+  const { resolvedTheme } = useTheme();
   return (
     <Popover>
       <PopoverTrigger>
@@ -24,9 +25,10 @@ export const EmojiPicker = ({ onChange }: EmojiPickerProps) => {
       <PopoverContent
         side="right"
         sideOffset={40}
-        className="bg-transparent border-none shadow-none dro-shawdow-none mb-16"
+        className="bg-transparent border-none shadow-none drop-shadow-none mb-16"
       >
         <Picker
+          theme={resolvedTheme}
           data={data}
           onEmojiSelect={(emoji: any) => onChange(emoji.native)}
         />
