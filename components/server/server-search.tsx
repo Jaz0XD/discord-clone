@@ -86,6 +86,7 @@ export const ServerSearch = ({ data }: ServerSearchProps) => {
                     onSelect={() => onClick({id, type})}
                     >
                       {icon}
+                      
                       <span>{name}</span>
                     </CommandItem>
                   );
