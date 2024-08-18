@@ -69,7 +69,7 @@ export const ServerChannel = ({
           <ActionTooltip label="Delete">
             <Trash
               onClick={(e) => onAction(e, "deleteChannel")}
-              className="hidden group-hover:block w-4 h-4 text-zinc-500 hover:text-zinc-600 dark:text-zinc-400 dark:hover:text-zinc-300 transition"
+              className="hidden group-hover:block w-4 h-4 text-rose-500 hover:text-rose-600 dark:text-rose-500 dark:hover:text-rose-300 transition"
             />
           </ActionTooltip>
         </div>
